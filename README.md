@@ -10,21 +10,6 @@
 npm install --save react-modal
 ```
 
-## Usage
-
-```jsx
-import React, { Component } from 'react'
-
-import MyComponent from 'react-modal'
-import 'react-modal/dist/index.css'
-
-class Example extends Component {
-  render() {
-    return <MyComponent />
-  }
-}
-```
-
 ## License
 
 MIT © [dillionmegida](https://github.com/dillionmegida)
